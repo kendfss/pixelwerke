@@ -1,0 +1,4 @@
+.load misc.js
+.load maths.js
+.load itertools.js
+.load colours.js
